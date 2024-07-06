@@ -1,0 +1,9 @@
+{
+	"zoro": {
+		"baseURL": "http://localhost:7000/",
+		"paths": {
+			"getUserAuthToken": "user/getUserAuthToken",
+			"fetchUser": "user/fetch"
+		}
+	}
+}
